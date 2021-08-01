@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=debugUnit&&show_icons=true&title_color=D3D3D3&icon_color=0369a9&text_color=1d8f82&bg_color=262626" > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugUnit&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=debugUnit&&show_icons=true&title_color=D3D3D3&icon_color=0369a9&text_color=1d8f82&bg_color=262626" > 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugUnit&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub followers](https://img.shields.io/github/followers/debugUnit?style=social) ![GitHub Org's stars](https://img.shields.io/github/stars/debugUnit?style=social)
 
