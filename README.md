@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jagdish.pulpett@gmail.com)](mailto:jagdish.pulpett@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=7045746143&text=Hello!!)](https://api.whatsapp.com/send?phone=7045746143&text=Hello!!)
+
+![](https://komarev.com/ghpvc/?username=debugUnit&label=PROFILE+VIEWS)
