@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=7045746143&text=Hello!!)](https://api.whatsapp.com/send?phone=7045746143&text=Hello!!)
 
 ![](https://komarev.com/ghpvc/?username=debugUnit&label=PROFILE+VIEWS)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
